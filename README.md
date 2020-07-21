@@ -1,20 +1,4 @@
-# PX4 Drone Autopilot
-
-[![Releases](https://img.shields.io/github/release/PX4/Firmware.svg)](https://github.com/PX4/Firmware/releases) [![DOI](https://zenodo.org/badge/22634/PX4/Firmware.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/Firmware)
-
-[![Nuttx Targets](https://github.com/PX4/Firmware/workflows/Nuttx%20Targets/badge.svg)](https://github.com/PX4/Firmware/actions?query=workflow%3A%22Nuttx+Targets%22?branch=master) [![SITL Tests](https://github.com/PX4/Firmware/workflows/SITL%20Tests/badge.svg?branch=master)](https://github.com/PX4/Firmware/actions?query=workflow%3A%22SITL+Tests%22)
-
-[![Slack](https://px4-slack.herokuapp.com/badge.svg)](http://slack.px4.io)
-
-This repository holds the [PX4](http://px4.io) flight control solution for drones, with the main applications located in the [src/modules](https://github.com/PX4/Firmware/tree/master/src/modules) directory. It also contains the PX4 Drone Middleware Platform, which provides drivers and middleware to run drones.
-
-* Official Website: http://px4.io (License: BSD 3-clause, [LICENSE](https://github.com/PX4/Firmware/blob/master/LICENSE))
-* [Supported airframes](https://docs.px4.io/master/en/airframes/airframe_reference.html) ([portfolio](http://px4.io/#airframes)):
-  * [Multicopters](https://docs.px4.io/master/en/airframes/airframe_reference.html#copter)
-  * [Fixed wing](https://docs.px4.io/master/en/airframes/airframe_reference.html#plane)
-  * [VTOL](https://docs.px4.io/master/en/airframes/airframe_reference.html#vtol)
-  * many more experimental types (Rovers, Blimps, Boats, Submarines, Autogyros, etc)
-* Releases: [Downloads](https://github.com/PX4/Firmware/releases)
+## It is a private project and we have revise the code for the research use, you can download it for free, but we have no resposible for it! Be careful!
 
 
 ## PX4 Users
